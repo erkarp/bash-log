@@ -1,0 +1,16 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erkarp",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-ftp-push": "^0.4.1",
+    "grunt-sass": "^1.1.0"
+  }
+}
