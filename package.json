@@ -12,5 +12,10 @@
     "grunt": "^0.4.5",
     "grunt-ftp-push": "^0.4.1",
     "grunt-sass": "^1.1.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erkarp/bash-log.git"
   }
 }

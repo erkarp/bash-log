@@ -1,6 +1,7 @@
 cd ~/Documents/web/log
 
-node script.js $1
+echo "$@"
+node script.js "$@"
 
-grunt push
-open index.html
+#grunt push
+#open index.html
